@@ -1,9 +1,12 @@
 # ✈️ Planificación de Viaje por Europa
+<div align="center">
+  <img src="fotografia.webp" alt="Mapa del viaje" width="300">
+</div>
 
 ## 📌 Descripción
 Este repositorio se utilizará para planificar y organizar nuestro viaje por Europa. Aquí gestionaremos itinerarios, transporte, alojamiento y cualquier otro detalle relevante para que el viaje sea lo más cómodo y eficiente posible.
 
-## 🗺️ Itinerario
+## 🗺️ Itinerario 
 
 1. **Salida desde Burgos** → Madrid ✈️
    - Transporte: Bus a Madrid
